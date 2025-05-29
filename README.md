@@ -8,7 +8,7 @@
   
 - 📫 Puedes contactarme a través de mi correo electrónico: [gomezleandrof6@gmail.com](mailto:gomezleandrof6@gmail.com).
   
-- ⚡ Me encanta la tecnologia en general desarrollo de prototipos con Arduino, diseño y programacion de paginas web, creacion de apps moviles y de escritorio.
+- ⚡ Me encanta la tecnologia en general pero me enfoco más en el desarrollo de prototipos con Arduino, creacion de apps moviles y de escritorio.
 
 ## 🛠 Tecnologías y Herramientas
 
