@@ -8,19 +8,27 @@
   
 - 📫 Puedes contactarme a través de mi correo electrónico: [gomezleandrof6@gmail.com](mailto:gomezleandrof6@gmail.com).
   
-- ⚡ Me encanta la tecnologia en general pero me enfoco más en el desarrollo de prototipos con Arduino, creacion de apps moviles y de escritorio.
+- ⚡ Me encanta la tecnologia en general pero me enfoco más en el desarrollo de prototipos con Arduino y programas de escritorio.
 
 ## 🛠 Tecnologías y Herramientas
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/>
+
+  <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="netbeans" width="50" height="50"/>
+
 </p>
 
 <!---
